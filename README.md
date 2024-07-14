@@ -36,6 +36,22 @@ The objective of this task is to generate reports that provide answers to the fo
 
 ![Market_performance_vs_target_report](https://github.com/Ankitgif/Excel-Advance-Sales-Analytics/assets/60297135/67ddc555-99f2-4764-af41-278ecd7fb653)
 
+- Profit and Loss by Year
+
+![p_and_l_by_year](https://github.com/user-attachments/assets/3fd39645-3f1f-4b4a-9bf7-5199d4542788)
+
+- Profit and Loss by Months
+
+![p_and_l_by_months](https://github.com/user-attachments/assets/25436852-ae92-4aa3-b024-5d967adb7362)
+
+- Profit and Loss for Market
+
+![p_and_l_for_market_2021](https://github.com/user-attachments/assets/34ccf125-75ae-4486-99ef-a196a7af4c67)
+
+- Gross Margin % by Quarters respect to Sub Zone
+
+![GM%_by_Quartes_sub_zone](https://github.com/user-attachments/assets/a10904ed-c27f-49ce-865d-6194608a4c85)
+
 
   Key learnings:
 
@@ -46,4 +62,4 @@ The objective of this task is to generate reports that provide answers to the fo
 - Conditional Formatting
 - Power Pivot
 - Creating Measures
-- Value filters
+- Adding finance data to data model
