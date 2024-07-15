@@ -55,13 +55,23 @@ The objective of this task is to generate reports that provide answers to the fo
 
 Key learnings:
 
-ETL Processes: Proficient in Extracting, Transforming, and Loading data in Excel
-Data Modelling: Expertise in creating connections among tables and building robust data models
-Sales Knowledge: Functional understanding of sales processes and data
-Power Query: Skilled in adding and managing date tables using Power Query
-Conditional Formatting: Advanced capabilities in applying conditional formatting in Excel
-Power Pivot: Experienced in using Power Pivot for data analysis and modeling
-Measure Creation: Proficient in creating measures for data analysis
-Fiscal Analysis: Ability to derive fiscal months and quarters
-Data Integration: Proficiency in incorporating supplementary data into an existing data model
-DAX (Data Analysis Expressions): Utilizing DAX to create calculated columns
+- ETL Processes: Proficient in Extracting, Transforming, and Loading data in Excel.
+  
+- Data Modelling: Expertise in creating connections among tables and building robust data models.
+  
+- Sales Knowledge: Functional understanding of sales processes and data.
+  
+- Power Query: Skilled in adding and managing date tables using Power Query.
+  
+- Conditional Formatting: Advanced capabilities in applying conditional formatting in Excel.
+  
+- Power Pivot: Experienced in using Power Pivot for data analysis and modeling.
+  
+- Measure Creation: Proficient in creating measures for data analysis.
+  
+- Fiscal Analysis: Ability to derive fiscal months and quarters.
+  
+- Data Integration: Proficiency in incorporating supplementary data into an existing data model.
+  
+- DAX (Data Analysis Expressions): Utilizing DAX to create calculated columns.
+  
